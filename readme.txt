@@ -1,0 +1,1 @@
+This repo contains all my study materials, exercises, projects from the codecademy cirriculum and modules.
