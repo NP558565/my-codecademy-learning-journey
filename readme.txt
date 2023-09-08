@@ -1,7 +1,5 @@
 This repo contains all my study materials, exercises, projects from the codecademy cirriculum FRONT-END / BACK-END (FULL STACK).
 
-(http://s3.amazonaws.com/codecademy-blog/assets/logo_blue_dark.png 
-
 **[Codecademy](http://www.codecademy.com/)** is an online interactive platform that offers free coding classes in several different programming languages including **Python**, **PHP**, **jQuery**, **JavaScript**, and **Ruby**, as well as markup languages **HTML** and **CSS**. The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
 
 
