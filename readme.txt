@@ -1,5 +1,5 @@
 This repo contains all my study materials, exercises, projects from the codecademy cirriculum FRONT-END / BACK-END (FULL STACK).<br>
-![Codecademy Logo](http://s3.amazonaws.com/codecademy-blog/assets/logo_blue_dark.png "Codecademy Logo")
+(http://s3.amazonaws.com/codecademy-blog/assets/logo_blue_dark.png 
 
 **[Codecademy](http://www.codecademy.com/)** is an online interactive platform that offers free coding classes in several different programming languages including **Python**, **PHP**, **jQuery**, **JavaScript**, and **Ruby**, as well as markup languages **HTML** and **CSS**. The site has received positive reviews from many blogs and websites, including the New York Times and TechCrunch.
 
@@ -26,9 +26,6 @@ This repo contains all my study materials, exercises, projects from the codecade
 * [**SQL: Analyzing Business Metrics**](https://www.codecademy.com/learn/sql-analyzing-business-metrics) - Learn the basics of SQL data analysis to explore dips and spikes in data and build business metrics.<br />
 * [**SQL: Table Transformation**](https://www.codecademy.com/learn/sql-table-transformation) - Practice more SQL in this course that covers how to manipulate and transform data.<br />
 * [**Deploy a Website**](https://www.codecademy.com/learn/deploy-a-website) - Learn how to publish a personal website to the public Internet.<br />
-
-
-
 
 
 
